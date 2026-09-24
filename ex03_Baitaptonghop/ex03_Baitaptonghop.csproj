@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Area\Admin\Controllers\" />
+    <Folder Include="Area\Admin\Views\Category\" />
+    <Folder Include="Area\Admin\Views\Home\" />
+    <Folder Include="Area\Admin\Views\Order\" />
+    <Folder Include="Area\Admin\Views\Product\" />
+  </ItemGroup>
+
+</Project>
